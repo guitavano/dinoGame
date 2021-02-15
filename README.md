@@ -4,6 +4,5 @@
 
 Atividade realizada no Bootcamp da Digital Innovation One, recriação do famoso Jogo do Dinossauro da Google, usando apenas HTML, CSS e Javascript.
 
+<img src="/imagens/gifReadme.gif" align="center">
 
-
-![](/imagens/gifReadme.gif)
